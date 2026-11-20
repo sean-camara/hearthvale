@@ -1,0 +1,158 @@
+[
+  {
+    "id": "0",
+    "name": "Breakfast radish",
+    "seasons": [
+      0,
+      1
+    ],
+    "days": 2,
+    "cost": 3,
+    "price": 9,
+    "yield_count": 1,
+    "color": "#c96564"
+  },
+  {
+    "id": "1",
+    "name": "Butter lettuce",
+    "seasons": [
+      0,
+      1
+    ],
+    "days": 3,
+    "cost": 4,
+    "price": 12,
+    "yield_count": 1,
+    "color": "#a5c868"
+  },
+  {
+    "id": "2",
+    "name": "Sugar pea",
+    "seasons": [
+      0,
+      1
+    ],
+    "days": 4,
+    "cost": 5,
+    "price": 15,
+    "yield_count": 3,
+    "color": "#90bc65"
+  },
+  {
+    "id": "3",
+    "name": "Amber carrot",
+    "seasons": [
+      1,
+      2
+    ],
+    "days": 3,
+    "cost": 6,
+    "price": 18,
+    "yield_count": 2,
+    "color": "#e79652"
+  },
+  {
+    "id": "4",
+    "name": "Rain bean",
+    "seasons": [
+      2,
+      3
+    ],
+    "days": 3,
+    "cost": 7,
+    "price": 21,
+    "yield_count": 2,
+    "color": "#79b194"
+  },
+  {
+    "id": "5",
+    "name": "Courtyard tomato",
+    "seasons": [
+      2,
+      3
+    ],
+    "days": 5,
+    "cost": 8,
+    "price": 24,
+    "yield_count": 3,
+    "color": "#d77255"
+  },
+  {
+    "id": "6",
+    "name": "Honey melon",
+    "seasons": [
+      3,
+      4
+    ],
+    "days": 6,
+    "cost": 9,
+    "price": 27,
+    "yield_count": 1,
+    "color": "#d6b56a"
+  },
+  {
+    "id": "7",
+    "name": "Lantern squash",
+    "seasons": [
+      4,
+      5
+    ],
+    "days": 5,
+    "cost": 10,
+    "price": 30,
+    "yield_count": 2,
+    "color": "#da924f"
+  },
+  {
+    "id": "8",
+    "name": "Red beet",
+    "seasons": [
+      4,
+      5
+    ],
+    "days": 3,
+    "cost": 11,
+    "price": 33,
+    "yield_count": 2,
+    "color": "#a66379"
+  },
+  {
+    "id": "9",
+    "name": "Winter leek",
+    "seasons": [
+      5,
+      6
+    ],
+    "days": 4,
+    "cost": 12,
+    "price": 36,
+    "yield_count": 2,
+    "color": "#a1bd81"
+  },
+  {
+    "id": "10",
+    "name": "Snow cabbage",
+    "seasons": [
+      6,
+      7
+    ],
+    "days": 5,
+    "cost": 13,
+    "price": 39,
+    "yield_count": 1,
+    "color": "#9bbdb1"
+  },
+  {
+    "id": "11",
+    "name": "Star turnip",
+    "seasons": [
+      7,
+      0
+    ],
+    "days": 3,
+    "cost": 14,
+    "price": 42,
+    "yield_count": 2,
+    "color": "#d3b2bc"
+  }
+]

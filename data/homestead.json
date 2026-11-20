@@ -1,0 +1,114 @@
+{
+  "projects": [
+    {
+      "id": "library",
+      "name": "The seed library",
+      "orders": 3,
+      "coins": 70,
+      "wood": 12,
+      "description": "Collect a packet of four seasonal seeds every season. The seed keeper stocks the cabinet beside the market.",
+      "pos": [
+        766,
+        338
+      ]
+    },
+    {
+      "id": "cistern",
+      "name": "The rain cistern",
+      "orders": 7,
+      "coins": 140,
+      "wood": 18,
+      "description": "The oldest irrigation line runs along the northern row. The cistern waters that row at dawn.",
+      "pos": [
+        652,
+        447
+      ]
+    },
+    {
+      "id": "kettle",
+      "name": "The preserving hearth",
+      "orders": 12,
+      "coins": 250,
+      "wood": 24,
+      "description": "Turn three of any one crop into a jar of preserves. Each batch simmers overnight.",
+      "pos": [
+        492,
+        270
+      ]
+    }
+  ],
+  "seasons": [
+    [
+      "First greens",
+      "Iona",
+      "Mara",
+      "Oren",
+      "The first shoots are up. Iona wants something crisp for the windowsill supper.",
+      "Mara is packing a lunch for the bridge crew.",
+      "Oren needs supplies before the river rises."
+    ],
+    [
+      "Blossom parcels",
+      "Nell",
+      "Pip",
+      "Linn",
+      "Nell is taking garden greens to the blossom picnic.",
+      "Pip has promised a meal for the post-house table.",
+      "Linn is restocking her field basket."
+    ],
+    [
+      "Long-light supper",
+      "Tavi",
+      "Ves",
+      "Oren",
+      "Tavi needs fresh vegetables for the long-light supper.",
+      "Ves is testing a new set of soup bowls.",
+      "The bridge crew is working through midday."
+    ],
+    [
+      "Lantern watch",
+      "Linn",
+      "Mara",
+      "Pip",
+      "Linn is filling a harvest basket for the rainy season.",
+      "Mara is arranging supper for the lantern watch.",
+      "Pip is stocking up before the next downpour."
+    ],
+    [
+      "Harvest tables",
+      "Mara",
+      "Iona",
+      "Nell",
+      "Mara wants something bright for the harvest tables.",
+      "Iona is making room at the tasting counter.",
+      "Nell is gathering supplies for the sorting shed."
+    ],
+    [
+      "First embers",
+      "Ves",
+      "Linn",
+      "Tavi",
+      "Ves trades the season\u2019s harvest for firing wood.",
+      "Linn is setting out a warm meal for the potters.",
+      "Tavi is stocking the lamplighters\u2019 room."
+    ],
+    [
+      "Snowbound pantry",
+      "Oren",
+      "Nell",
+      "Mara",
+      "Oren is laying in vegetables for the bridgehouse.",
+      "Nell wants a warm meal after counting seeds.",
+      "Mara is packing the last cart before the snow."
+    ],
+    [
+      "Last-star market",
+      "Pip",
+      "Tavi",
+      "Ves",
+      "Pip is sending a basket to the last-star market.",
+      "Tavi is keeping the night market kitchen open.",
+      "Ves is collecting supplies for the year\u2019s last firing."
+    ]
+  ]
+}

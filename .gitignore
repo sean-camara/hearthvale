@@ -1,0 +1,8 @@
+.godot/
+.gitattributes.local
+*.tmp
+*.zip
+*.pck
+*.exe
+dist/
+__pycache__/

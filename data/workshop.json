@@ -1,0 +1,23 @@
+{
+  "fence": {
+    "name": "Split-rail fence",
+    "wood": 2
+  },
+  "lantern": {
+    "name": "Orchard lantern",
+    "wood": 3
+  },
+  "bench": {
+    "name": "Garden bench",
+    "wood": 4
+  },
+  "garden-pot": {
+    "name": "Flower planter",
+    "wood": 3
+  },
+  "slate-path": {
+    "name": "Slate path",
+    "material": "stone",
+    "count": 2
+  }
+}

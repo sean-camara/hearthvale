@@ -1,0 +1,289 @@
+{
+  "residents": [
+    {
+      "id": "Iona",
+      "role": "Seed keeper",
+      "start": [
+        482,
+        330
+      ],
+      "end": [
+        580,
+        330
+      ],
+      "greetings": [
+        "The finches planted half that hedge. All I did was forget to close a sack.",
+        "My sister used to cross that bridge barefoot, even in frost. I wear two pairs of socks.",
+        "Let the pea vines catch your sleeve. Tender shoots hardly tug at all."
+      ]
+    },
+    {
+      "id": "Oren",
+      "role": "Bridge keeper",
+      "start": [
+        765,
+        360
+      ],
+      "end": [
+        800,
+        391
+      ],
+      "greetings": [
+        "Hear that? The creek pulls stones round all winter. By spring they're smooth as eggs.",
+        "Stand still a moment. See that dimple behind the piling? That's where I'd cast.",
+        "I left one plank creaky on purpose. The heron likes a little warning."
+      ]
+    },
+    {
+      "id": "Mara",
+      "role": "Cooper",
+      "start": [
+        267,
+        318
+      ],
+      "end": [
+        432,
+        378
+      ],
+      "greetings": [
+        "There\u2019s a sweet smell in a good barrel before you ever put cider in it.",
+        "I saved the rings off your gran\u2019s rain barrel. They\u2019re still sound."
+      ]
+    },
+    {
+      "id": "Tavi",
+      "role": "Lamplighter",
+      "start": [
+        615,
+        405
+      ],
+      "end": [
+        697,
+        319
+      ],
+      "greetings": [
+        "The lamps at this end burn through their wicks twice as fast. River wind.",
+        "I trim the wicks at noon so I can sit down for sunset."
+      ]
+    },
+    {
+      "id": "Nell",
+      "role": "Seed sorter",
+      "start": [
+        622,
+        300
+      ],
+      "end": [
+        565,
+        368
+      ],
+      "greetings": [
+        "Try holding those seeds in your palm. The full ones roll differently.",
+        "The tiniest lettuce seeds make the widest mess on my kitchen table."
+      ]
+    },
+    {
+      "id": "Ves",
+      "role": "Potter",
+      "start": [
+        280,
+        394
+      ],
+      "end": [
+        396,
+        335
+      ],
+      "greetings": [
+        "Creek clay comes out blue until you fire it. Then it remembers the sun.",
+        "I put a thumbprint under each cup. Handy when two families bring the same glaze."
+      ]
+    },
+    {
+      "id": "Linn",
+      "role": "Herbalist",
+      "start": [
+        817,
+        305
+      ],
+      "end": [
+        863,
+        380
+      ],
+      "greetings": [
+        "Rub one mint leaf between your fingers. Now smell your sleeve an hour later.",
+        "Pick from three stems. A plant with half its leaves grows back sooner."
+      ]
+    },
+    {
+      "id": "Pip",
+      "role": "Post carrier",
+      "start": [
+        207,
+        321
+      ],
+      "end": [
+        721,
+        378
+      ],
+      "greetings": [
+        "I can tell who wrote a letter by the way the paper folds.",
+        "That creaky plank tells me I\u2019m three minutes from lunch."
+      ]
+    }
+  ],
+  "animals": {
+    "hen": {
+      "name": "Bramble",
+      "price": 28,
+      "feed_count": 1,
+      "product": "egg"
+    }
+  },
+  "recipes": {
+    "tea": {
+      "herb": 2
+    },
+    "soup": {
+      "p0": 1,
+      "herb": 1
+    },
+    "greens": {
+      "p1": 2,
+      "egg": 1
+    },
+    "peas": {
+      "p2": 2,
+      "herb": 1
+    },
+    "carrots": {
+      "p3": 2
+    },
+    "beans": {
+      "p4": 2,
+      "egg": 1
+    },
+    "tomato": {
+      "p5": 2,
+      "herb": 1
+    },
+    "melon": {
+      "p6": 1,
+      "herb": 1
+    },
+    "squash": {
+      "p7": 1,
+      "egg": 1
+    },
+    "beet": {
+      "p8": 1,
+      "herb": 1
+    },
+    "leek": {
+      "p9": 1,
+      "egg": 1
+    },
+    "cabbage": {
+      "p10": 1,
+      "herb": 1
+    },
+    "turnip": {
+      "p11": 1,
+      "p10": 1
+    },
+    "fishcake": {
+      "perch": 1,
+      "egg": 1
+    },
+    "grilled": {
+      "minnow": 2,
+      "herb": 1
+    }
+  },
+  "quest": {
+    "giver": "Iona",
+    "item": "p0",
+    "reward": 30
+  },
+  "fish": [
+    {
+      "id": "minnow",
+      "name": "Glassfin minnow",
+      "price": 6,
+      "speed": 1.15
+    },
+    {
+      "id": "perch",
+      "name": "Copper perch",
+      "price": 12,
+      "speed": 1.6
+    },
+    {
+      "id": "loach",
+      "name": "Ribbon loach",
+      "price": 17,
+      "speed": 2.05
+    }
+  ],
+  "foods": {
+    "tea": {
+      "name": "Mint tea",
+      "price": 9
+    },
+    "soup": {
+      "name": "Garden soup",
+      "price": 22
+    },
+    "greens": {
+      "name": "Lettuce wraps",
+      "price": 40
+    },
+    "peas": {
+      "name": "Minted peas",
+      "price": 42
+    },
+    "carrots": {
+      "name": "Hearth carrots",
+      "price": 44
+    },
+    "beans": {
+      "name": "Skillet beans",
+      "price": 62
+    },
+    "tomato": {
+      "name": "Tomato broth",
+      "price": 64
+    },
+    "melon": {
+      "name": "Chilled melon",
+      "price": 42
+    },
+    "squash": {
+      "name": "Roast lantern squash",
+      "price": 53
+    },
+    "beet": {
+      "name": "Beet relish",
+      "price": 48
+    },
+    "leek": {
+      "name": "Leek omelet",
+      "price": 57
+    },
+    "cabbage": {
+      "name": "Braised snow cabbage",
+      "price": 53
+    },
+    "turnip": {
+      "name": "Starfrost stew",
+      "price": 104
+    },
+    "fishcake": {
+      "name": "Copper perch cakes",
+      "price": 29
+    },
+    "grilled": {
+      "name": "Grilled glassfin",
+      "price": 27
+    }
+  }
+}
